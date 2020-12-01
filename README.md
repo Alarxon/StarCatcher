@@ -1,6 +1,8 @@
 # StarCatcher
 A catcher android game made in Unity.
 
+![game-gif](https://github.com/Alarxon/StarCatcher/blob/main/game.gif?raw=true)
+
 ### Prerequisites
 This game was made using Unity 2018.03.0f2 and Photoshop for sprites and animations. 
 You can download that version for Unity Hub page.
